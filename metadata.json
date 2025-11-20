@@ -1,0 +1,5 @@
+{
+  "name": "RetainAI Manager",
+  "description": "An intelligent churn management platform for marketing managers to identify at-risk customers, manage risk thresholds, and generate personalized retention emails using AI.",
+  "requestFramePermissions": []
+}
